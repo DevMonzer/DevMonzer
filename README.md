@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning react.js and redux, and node.js
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning react.js and redux.
 - 💬 Ask me about tech and trends
 - ⚡ Fun fact: I love learning new languages
 
