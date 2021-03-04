@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monzer Mohammad</h1>
-<h3 align="center">A web developer</h3>
+<h2 align="center">A Web Developer</h2>
 
 - 🌱 I’m currently learning react.js and redux.
 - 💬 Ask me about tech and trends
