@@ -45,12 +45,3 @@
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/DevMonzer/Raha" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevMonzer&repo=Raha&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" /></a><a href="https://github.com/DevMonzer/Natours" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevMonzer&repo=Natours&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" /></a></div>
-
-<br>
-  
-[![Monzer's github stats](https://github-readme-stats.vercel.app/api?username=DevMonzer&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-  
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMonzer)](https://github.com/DevMonzer/github-readme-stats)
-
