@@ -2,7 +2,7 @@
 <h2 align="center">A Frontend Web Developer</h2>       
 <h1 align="center"><a target="_blank" href="https://dev-monzer.vercel.app/">My Portfolio</a></h1>  
 
-<img src="https://i.postimg.cc/8CrVYCmM/Capture.jpg" alt="web" />
+<img src="https://i.postimg.cc/7PKQgkgk/Capture.jpg" alt="web" />
  
  ### Skills 
 
