@@ -22,7 +22,7 @@
 </p>
 
 
-### Socials
+### Social Media
 
 <p align="left"> 
 
