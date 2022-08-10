@@ -32,6 +32,7 @@
 <a href="https://www.linkedin.com/in/devmonzer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://www.twitter.com/DevMonzer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://www.facebook.com/profile.php?id=100075721583290" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
+<a href="https://dev-monzer.vercel.app/"><img src="https://i.ibb.co/7Wscr6H/icon.png" alt="icon" border="0"></a>
 </p>
 
 ### Badges
