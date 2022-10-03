@@ -1,8 +1,8 @@
-<h1 align="center">Hello World👋 This is Monzer Mohammed</h1> 
+<h1 align="center">Hello World 🌎 this is Monzer Mohammed</h1> 
 <h2 align="center">A Frontend Web Developer</h2> 
 <h1 align="center"><a target="_blank" href="https://dev-monzer.vercel.app/">My Portfolio</a></h1>  
   
- ### Skills   
+ ### Skills    
     
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
