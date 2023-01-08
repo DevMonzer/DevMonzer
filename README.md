@@ -21,7 +21,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/NyhdHJ8/icons8-git-48.png" alt="icons8-git-48" width="40" height="40" alt="Git" /></a>
 <a href="https://www.freelogovectors.net/svg10/vercel-logo-freelogovectors.net_.svg" target="_blank" rel="noreferrer"><img src="https://www.freelogovectors.net/svg10/vercel-logo-freelogovectors.net_.svg" alt="icons8-git-48" width="100" height="40" alt="Vercel" /></a>
 <a href="https://ibb.co/tMZ7FJq" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/VWH75qg/netlify.png" alt="icons8-git-48" width="100" height="40" alt="Netlify" /></a>
-
 </p>
 
 ### Social Media
