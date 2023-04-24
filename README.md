@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 🌎 this is Monzer Mohammed</h1>
 <h2 align="center">A Frontend Web Developer</h2>
 <h1 align="center"><a target="_blank" href="https://dev-monzer.vercel.app/">My Portfolio</a></h1>      
-
+ 
  ### Skills
  
 <p align="left">
@@ -34,7 +34,7 @@
 <a href="https://dev-monzer.vercel.app/"><img src="https://i.ibb.co/7Wscr6H/icon.png" width="35" height="32"  alt="icon" border="0"></a>
 </p>
 
-### Badges
+### Badges 
 
 <b>My GitHub Stats</b>
 
