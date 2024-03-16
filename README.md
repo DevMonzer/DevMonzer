@@ -1,9 +1,9 @@
-<h1 align="center">Hello World 🌎 this is Monzer Mohammed</h1> 
-<h2 align="center">A Frontend Web Developer</h2> 
+<h1 align="center">Hello World 🌎 this is Monzer Mohammed</h1>
+<h2 align="center">A Frontend Web Developer</h2>
 <h1 align="center"><a target="_blank" href="https://dev-monzer.vercel.app/">My Portfolio</a></h1>
 
- ### Skills 
-   
+ ### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -24,14 +24,14 @@
 
 ### Social Media
 
-<p align="left"> 
+<p align="left">
 
-<a href="https://www.github.com/DevMonzer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/devmonzer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/DevMonzer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/devmonzer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://dev-monzer.vercel.app/"><img src="https://i.ibb.co/7Wscr6H/icon.png" width="35" height="32"  alt="icon" border="0"></a>
 </p>
 
-### Badges 
+### Badges
 
 <b>My GitHub Stats</b>
 
