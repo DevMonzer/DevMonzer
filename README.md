@@ -35,8 +35,8 @@
 
 ### Projects
 
-- [Project 1](https://project1-url.com) - Brief description of the project.
-- [Project 2](https://project2-url.com) - Brief description of the project.
+- [Project 1]([https://project1-url.com](https://online-store-puce.vercel.app/)) - An online shopping store using react and redux.
+- [Project 2]([https://project2-url.com](https://movies-show.vercel.app/)) - Check out the latest Netflix movies 🎥.
 
 ### Social Media
 
@@ -48,7 +48,7 @@
 
 ### Contact Me
 
-- Email: your-email@example.com
+- Email: dev.monzer@gmail.com
 - LinkedIn: [DevMonzer](https://www.linkedin.com/in/devmonzer/)
 - GitHub: [DevMonzer](https://github.com/DevMonzer)
 - Portfolio: [My Portfolio](https://dev-monzer.vercel.app/)
