@@ -35,8 +35,8 @@
 
 ### Projects
 
-- [Project 1]([https://project1-url.com](https://online-store-puce.vercel.app/)) - An online shopping store using react and redux.
-- [Project 2]([https://project2-url.com](https://movies-show.vercel.app/)) - Check out the latest Netflix movies 🎥.
+- [Project 1](https://online-store-puce.vercel.app/) - An online shopping store using react and redux.
+- [Project 2](https://movies-show.vercel.app/) - Check out the latest Netflix movies 🎥.
 
 ### Social Media
 
