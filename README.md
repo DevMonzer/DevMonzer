@@ -9,21 +9,46 @@
 
 ## 🚀 About Me
 
-I'm a passionate Frontend Web Developer with a keen eye for creating responsive and user-friendly web applications. My expertise lies in JavaScript, React, and modern web technologies. I'm constantly exploring new technologies and best practices to deliver exceptional user experiences.
+I'm a passionate Frontend Web Developer with a strong focus on creating beautiful, responsive, and user-friendly web applications. With expertise in modern JavaScript frameworks and a keen eye for design, I strive to build applications that not only function flawlessly but also provide an exceptional user experience.
 
 ## 🛠️ Tech Stack
 
 ### Frontend Development
-- JavaScript | HTML5 | CSS3 | Sass
-- React | Redux | Bootstrap | Material UI
+- JavaScript (ES6+) | TypeScript
+- React.js | Next.js | Redux
+- HTML5 | CSS3 | SASS/SCSS
+- Tailwind CSS | Material UI | Bootstrap
+- Styled Components | CSS Modules
 
 ### Backend & Deployment
-- Firebase | Heroku | Vercel | Netlify
+- Node.js | Express.js
+- Firebase | MongoDB
+- Vercel | Netlify | Heroku
+
+### Tools & Others
+- Git | GitHub
+- VS Code | WebStorm
+- Jest | React Testing Library
 
 ## 🎯 Featured Projects
 
-- [Online Store](https://online-store-puce.vercel.app/) - A full-featured e-commerce platform built with React and Redux
-- [Movies Show](https://movies-show.vercel.app/) - A Netflix-inspired movie browsing application
+### 1. [Portfolio Website](https://monzer-portfolio.vercel.app/)
+- Modern portfolio built with Next.js and Tailwind CSS
+- Responsive design with smooth animations
+- Dark/Light mode support
+- SEO optimized
+
+### 2. [Online Store](https://online-store-puce.vercel.app/)
+- Full-featured e-commerce platform
+- Built with React and Redux
+- Responsive design with modern UI
+- Shopping cart functionality
+
+### 3. [Movies Show](https://movies-show.vercel.app/)
+- Netflix-inspired movie browsing application
+- Real-time movie data integration
+- Responsive design
+- Search and filter functionality
 
 ## 📊 GitHub Stats
 
@@ -38,6 +63,13 @@ I'm a passionate Frontend Web Developer with a keen eye for creating responsive 
 - 💼 LinkedIn: [DevMonzer](https://www.linkedin.com/in/devmonzer/)
 - 📂 GitHub: [DevMonzer](https://github.com/DevMonzer)
 - 🌐 Portfolio: [monzer-portfolio.vercel.app](https://monzer-portfolio.vercel.app/)
+
+## 🏆 Certifications & Achievements
+
+- Frontend Development Certification
+- React.js Advanced Concepts
+- Responsive Web Design
+- UI/UX Design Principles
 
 ---
 <div align="center">
