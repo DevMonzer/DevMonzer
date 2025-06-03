@@ -69,7 +69,7 @@ I'm a passionate Frontend Web Developer with a strong focus on creating beautifu
 - Frontend Development Certification
 - React.js Advanced Concepts
 - Responsive Web Design
-- UI/UX Design Principles
+- Python Developer
 
 ---
 <div align="center">
