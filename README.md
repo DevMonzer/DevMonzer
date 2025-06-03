@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm Monzer Mohammed
 
 <div align="center">
-  <h2>Frontend Web Developer | React Enthusiast | UI/UX Designer</h2>
+  <h2>Frontend Web Developer | React Enthusiast | Python Developer</h2>
   <a href="https://monzer-portfolio.vercel.app/" target="_blank">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/devmonzer/" target="_blank">💼 LinkedIn</a> •
   <a href="https://github.com/DevMonzer" target="_blank">📂 GitHub</a>
