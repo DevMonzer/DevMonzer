@@ -1,77 +1,68 @@
-# 👋 Hello World! I'm Monzer Mohammed
+# Monzer Mohammed
 
-<div align="center">
-  <h2>Frontend Web Developer | React Enthusiast | Python Developer</h2>
-  <a href="https://monzer-portfolio.vercel.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/devmonzer/" target="_blank">💼 LinkedIn</a> •
-  <a href="https://github.com/DevMonzer" target="_blank">📂 GitHub</a>
-</div>
-
-## 🚀 About Me
-
-I'm a passionate Frontend Web Developer with a strong focus on creating beautiful, responsive, and user-friendly web applications. With expertise in modern JavaScript frameworks and a keen eye for design, I strive to build applications that not only function flawlessly but also provide an exceptional user experience.
-
-## 🛠️ Tech Stack
-
-### Frontend Development
-- JavaScript (ES6+) | TypeScript
-- React.js | Next.js | Redux
-- HTML5 | CSS3 | SASS/SCSS
-- Tailwind CSS | Material UI | Bootstrap
-- Styled Components | CSS Modules
-
-### Backend & Deployment
-- Node.js | Express.js
-- Firebase | MongoDB
-- Vercel | Netlify | Heroku
-
-### Tools & Others
-- Git | GitHub
-- VS Code | WebStorm
-- Jest | React Testing Library
-
-## 🎯 Featured Projects
-
-### 1. [Portfolio Website](https://monzer-portfolio.vercel.app/)
-- Modern portfolio built with Next.js and Tailwind CSS
-- Responsive design with smooth animations
-- Dark/Light mode support
-- SEO optimized
-
-### 2. [Online Store](https://online-store-puce.vercel.app/)
-- Full-featured e-commerce platform
-- Built with React and Redux
-- Responsive design with modern UI
-- Shopping cart functionality
-
-### 3. [Movies Show](https://movies-show.vercel.app/)
-- Netflix-inspired movie browsing application
-- Real-time movie data integration
-- Responsive design
-- Search and filter functionality
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMonzer&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMonzer&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 📫 Get in Touch
-
-- 📧 Email: dev.monzer@gmail.com
-- 💼 LinkedIn: [DevMonzer](https://www.linkedin.com/in/devmonzer/)
-- 📂 GitHub: [DevMonzer](https://github.com/DevMonzer)
-- 🌐 Portfolio: [monzer-portfolio.vercel.app](https://monzer-portfolio.vercel.app/)
-
-## 🏆 Certifications & Achievements
-
-- Frontend Development Certification
-- React.js Advanced Concepts
-- Responsive Web Design
-- Python Developer
+**Automation & IT Support Specialist**  
+_Saudi Arabia | [LinkedIn](https://www.linkedin.com/in/devmonzer/) | [GitHub](https://github.com/DevMonzer) | dev.monzer@gmail.com_
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevMonzer&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+
+## 👋 About Me
+
+I'm an Automation and IT Support Specialist with a passion for streamlining business operations through automation, data analysis, and modern web development. I build scalable automation tools and responsive web applications using Python, React, and the latest technologies.
+
+---
+
+## 🛠️ Skills
+
+**Frontend:**  
+JavaScript, React, TypeScript, HTML5, CSS3, Tailwind, Bootstrap, Material UI
+
+**Backend & Automation:**  
+Python, Selenium, Tkinter, pandas, numpy, Firebase, REST APIs
+
+**Tools:**  
+Git, VS Code, PyInstaller, Node.js, AI/LLM, Dependency Management
+
+---
+
+## 🏢 Experience
+
+**NUPCO Specialist, SAMCO** _(2023–Present)_  
+Automated invoice processing, logistics, and reporting with Python, Selenium, and pandas, reducing manual work and increasing efficiency.
+
+**Office Operations, MSH** _(2023)_  
+Developed Excel automation tools and provided IT support to streamline daily operations.
+
+**Web Developer & IT Support, 3Miles** _(2022)_  
+Built responsive websites and managed hosting environments, improving uptime and reducing maintenance.
+
+---
+
+## 🎓 Education & Certifications
+
+- **BSc Computer Science**, National Ribat University (GPA: 3.54/4.00)
+- DeepLearning.AI: Generative AI for Software Development (2025)
+- Microsoft: Automation & Scripting with Python (2025)
+- Google: IT Support Professional Certificate (2025)
+- Vanderbilt: ChatGPT & Agentic AI Specializations (2025)
+- Udemy: Complete JavaScript Course (2022)
+
+---
+
+## 🚀 Projects
+
+- **Active Tenders Suite:** Python/Tkinter app for automated tender analytics and reporting.
+- **ASN-RGR Automation Tool:** Python/Selenium desktop app for logistics document automation.
+- **Online Shopping Store:** E-commerce platform (React, Redux, Firebase).
+- **Movies App:** Netflix-style movie browser with AI voice (React, Alan AI).
+- **YouTube Clone:** Video platform using YouTube API (React, MUI).
+
+---
+
+## 📫 Contact
+
+- **Email:** dev.monzer@gmail.com
+- **Location:** Saudi Arabia
+- **LinkedIn:** [linkedin.com/in/devmonzer](https://www.linkedin.com/in/devmonzer/)
+- **GitHub:** [github.com/DevMonzer](https://github.com/DevMonzer)
+
+---
