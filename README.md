@@ -4,7 +4,7 @@
 _Saudi Arabia | <a href="https://monzer-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Website</a> | <a href="https://www.linkedin.com/in/devmonzer/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="https://github.com/DevMonzer" target="_blank" rel="noopener noreferrer">GitHub</a> | dev.monzer@gmail.com_
  
 --- 
-
+ 
 ## 👋 About Me 
 
 I'm an Automation and IT Support Specialist with a passion for streamlining business operations through automation, data analysis, and modern web development. I build scalable automation tools and responsive web applications using Python, React, and the latest technologies.
