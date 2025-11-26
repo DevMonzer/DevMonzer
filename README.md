@@ -1,7 +1,7 @@
 # Monzer Mohammed       
 
 **Automation & IT Support Specialist**   
-_Saudi Arabia | <a href="https://monzer-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Website</a> | <a href="https://www.linkedin.com/in/devmonzer/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="https://github.com/DevMonzer" target="_blank" rel="noopener noreferrer">GitHub</a> | dev.monzer@gmail.com_ 
+_Saudi Arabia | <a href="https://monzer-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Website</a> | <a href="https://www.linkedin.com/in/devmonzer/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="https://github.com/DevMonzer" target="_blank" rel="noopener noreferrer">GitHub</a> | dev.monzer@gmail.com_  
    
 --- 
  
