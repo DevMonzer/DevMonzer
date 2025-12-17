@@ -1,30 +1,24 @@
 # Monzer Mohammed
 
-**Automation & IT Support Specialist | Python Automation Engineer**  
+**Automation & IT Support Specialist | Full-Stack & Python Automation Developer**  
 📍 Saudi Arabia  
 
-I build reliable **Python-based automation systems** that reduce manual work, improve accuracy, and support large-scale operations.
+I build reliable **Python-based automation systems** that reduce manual work, improve accuracy, and support large-scale operations — alongside modern, scalable web applications when a UI is required.
 
 ---
 
 ### Focus Areas
 - Process & workflow automation  
+- Python scripting & desktop tools  
 - Telegram bots & AI agents  
 - Data processing & reporting  
-- Internal tools for operations teams  
-
----
-
-### Selected Work
-- **Enterprise Automation:** Invoice, logistics, and reporting automation (Python, Selenium, pandas)  
-- **AI Support Systems:** High-availability Telegram AI assistant serving thousands of users  
-- **Scholarship Automation:** End-to-end application workflows for low-bandwidth environments  
-- **Full-Stack Platforms:** Scalable admin dashboards and data pipelines  
+- Full-stack web development  
 
 ---
 
 ### Tech
-Python · Selenium · pandas · AsyncIO · Telegram Bots · REST APIs · SQL · Git · AI / LLMs
+Python · Selenium · pandas · AsyncIO · Telegram Bots · REST APIs · SQL ·  
+JavaScript · React · HTML · CSS · Git · AI / LLMs  ... etc
 
 ---
 
