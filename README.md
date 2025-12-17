@@ -144,7 +144,6 @@ An intelligent Telegram bot (**"المساعد الذكي"**) serving as the fir
 **Impact**
 - Processed **2,000+ queries in the first month**
 - Reduced human support workload by **50%**
-- Guided thousands of students through complex application processes despite unstable internet connectivity
 
 ---
 
