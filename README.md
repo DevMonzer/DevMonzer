@@ -169,10 +169,6 @@ A specialized **state-machine Telegram bot** designed to collect complex scholar
 - **Status Tracking & Validation:**  
   Regex-based validation for emails and phone numbers, with instant application status checking via `/status`.
 
-**Impact**
-- Enabled **5,000+ students** to apply entirely via Telegram
-- Reduced application errors by **40%** through real-time validation
-
 ---
 
 ### 🌐 Centralized Scholarship Portal (Full-Stack Web App)
@@ -196,11 +192,6 @@ A scalable **PHP/MySQL** platform providing a unified dashboard for applicants a
   Implemented Google OAuth, CSRF protection, prepared statements, and full Arabic RTL support.
 - **Background Job Processing:**  
   Built a custom queue system to handle heavy tasks (file processing, notifications) asynchronously.
-
-**Impact**
-- Streamlined review of **15,000+ applications**
-- Reduced administrative workload by **50%**
-- Improved data accuracy and operational efficiency
 
 ---
 
