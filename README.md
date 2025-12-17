@@ -1,6 +1,6 @@
 # Monzer Mohammed
 
-**Automation & IT Support Specialist | Python Automation Developer (AI)**  
+**Automation & IT Support Specialist | Full-Stack and Python Developer (AI)**  
 📍 Saudi Arabia  
 🌐 https://monzer-portfolio.vercel.app  
 💼 https://www.linkedin.com/in/devmonzer  
