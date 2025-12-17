@@ -142,8 +142,8 @@ An intelligent Telegram bot (**"المساعد الذكي"**) serving as the fir
   Commands for FAQs (`/faq`), programs (`/programs`), and keyword search (`/search`) to provide instant self-service access.
 
 **Impact**
-- Processed **10,000+ queries in the first month**
-- Reduced human support workload by **60%**
+- Processed **2,000+ queries in the first month**
+- Reduced human support workload by **50%**
 - Guided thousands of students through complex application processes despite unstable internet connectivity
 
 ---
