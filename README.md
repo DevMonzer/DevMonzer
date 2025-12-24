@@ -17,8 +17,8 @@ I build reliable **Python-based automation systems** that reduce manual work, im
 ---
 
 ### Tech
-Python · Selenium · pandas · AsyncIO · Telegram Bots · REST APIs · SQL ·  
-JavaScript · React · HTML · CSS · Git · AI / LLMs  ... etc
+Python · Flask · Playwright · Selenium · pandas · AsyncIO · Telegram Bots · REST APIs · SQL ·  
+JavaScript · PHP · MYSQL · React · HTML · CSS · Git · AI / LLMs  ... etc
 
 ---
 
