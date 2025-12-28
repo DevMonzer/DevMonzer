@@ -1,6 +1,6 @@
 # Monzer Mohammed
  
-**Automation & IT Support Specialist | Full-Stack & Python Automation Developer**
+**Automation & IT Support Specialist | Full-Stack & Python Developer**
 📍 Saudi Arabia  
 
 I build reliable **Python-based automation systems** that reduce manual work, improve accuracy, and support large-scale operations — alongside modern, scalable web applications when a UI is required.
