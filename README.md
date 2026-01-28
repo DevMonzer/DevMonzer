@@ -1,7 +1,7 @@
 # Monzer Mohammed 
   
-**Web Developer | Enterprise Automation | AI Chatbots**   
-📍 Saudi Arabia  
+**Web Developer | Enterprise Automation | AI Chatbots** 
+📍 Saudi Arabia
 
 I build reliable **Python-based automation systems** that reduce manual work, improve accuracy, and support large-scale operations — alongside modern, scalable web applications when a UI is required.
  
