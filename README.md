@@ -8,7 +8,7 @@ I build reliable **Python-based automation systems** that reduce manual work, im
 ----
  
 ### Focus Areas
-- Process & workflow automation  
+- Process & workflow automation   
 - Python scripting & desktop tools  
 - Telegram bots & AI agents  
 - Data processing & reporting  
